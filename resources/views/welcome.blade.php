@@ -10,5 +10,7 @@
 </head>
 <body>
 <h1 class="text-center bg-primary">Project Chaipa </h1>
+
+<p> C'est la classe !!!! Salut c'est Florent !!</p>
 </body>
 </html>
